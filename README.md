@@ -11,4 +11,4 @@ _The operating commands are as follows：_
    
    **query_services** is search method name.
    
-   **cz** is country code (chang it as want you want to search, not case sensitive).
+   **cz** is country code (chang it as what you want to search, no case sensitive).
